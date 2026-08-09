@@ -87,8 +87,8 @@ The dashboard also includes **interactive navigation and visual analysis** to ex
 The dataset contains **1,717 records and 11 columns**, including:
 
 `Country` | `Item Type` | `Order Date` | `Order ID` | `Order Priority` | `Region` | `Sales Channel` | `Ship Date` | `Total Cost` | `Total Revenue` | `Units Sold`
-
 ---
+https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv
 
 ## 📚 What I Learned
 
@@ -97,11 +97,18 @@ This project helped me improve my practical skills in **Tableau, data visualizat
 More importantly, I learned how to turn raw business data into visual insights that can support better decision-making.
 
 **Every project brings me one step closer to my goal. 🚀📊**
-https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv
 
+## 📸 Dashboard Preview
+
+### Amazon Sales & Order Analysis
 https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_First_Page.png
 
+### Amazon Sales & Profit Dashboard
 https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_Second_page.png
+
+### 📂 Dataset
+https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv
+
 ## 👩‍💻 About
 
 This project is part of my **Data Analytics learning journey**, where I am building practical projects to strengthen my skills and develop real-world problem-solving abilities.
