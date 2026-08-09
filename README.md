@@ -100,6 +100,7 @@ More importantly, I learned how to turn raw business data into visual insights t
 
 https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_First_Page.png
 
+https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_Second_page.png
 ## 👩‍💻 About
 
 This project is part of my **Data Analytics learning journey**, where I am building practical projects to strengthen my skills and develop real-world problem-solving abilities.
