@@ -100,10 +100,10 @@ More importantly, I learned how to turn raw business data into visual insights t
 
 ## 📸 Dashboard Preview
 
-### Amazon Sales & Order Analysis
+### Amazon Sales & Order Analysis Dashboard – First Page
 https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_First_Page.png
 
-### Amazon Sales & Profit Dashboard
+### Amazon Sales & Order Analysis Dashboard – Second Page
 https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_Second_page.png
 
 ### 📂 Dataset
