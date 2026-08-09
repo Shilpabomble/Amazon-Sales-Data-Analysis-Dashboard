@@ -97,6 +97,7 @@ This project helped me improve my practical skills in **Tableau, data visualizat
 More importantly, I learned how to turn raw business data into visual insights that can support better decision-making.
 
 **Every project brings me one step closer to my goal. 🚀📊**
+https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv
 
 https://github.com/Shilpabomble/Amazon-Sales-Data-Analysis-Dashboard/blob/main/Dashboard_First_Page.png
 
